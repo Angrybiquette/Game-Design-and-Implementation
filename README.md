@@ -17,13 +17,6 @@ Game World:
 - 6 little walls that the player can jump.
 - A big wall around the map that the player can't jumb.
 - A player.
-- 
-View of the world:
-___________________
-|                 |
-| * [ ] [ ] [ ]   |
-|                 |
-|_________________|
 
 Game Rules:
 - The player have to jumb 6 little wall to win.
