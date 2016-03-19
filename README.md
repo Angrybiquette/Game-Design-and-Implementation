@@ -2,7 +2,9 @@
 
 Name of the game: Jumpimg wall simulator 2.
 
-Target audiance: This game is created for hardcore gamer who like to challenge others peoples. it aims generally people between 10 years at 29 years. The poor graphics of the game permit to everyone to turn it in this PC.
+Target audiance: 
+
+- This game is created for hardcore gamer who like to challenge others peoples. it aims generally people between 10 years at 29 years. The poor graphics of the game permit to everyone to turn it in this PC.
 
 Game Plays:
 - The player have 5 buttons:
