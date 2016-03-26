@@ -1,6 +1,6 @@
 # Game-Design-and-Implementation
 
-Name of the game: Jumpimg wall simulator 2.
+Name of the game: Jumpimg wall simulator X-Trem.
 
 Target audiance: 
 
@@ -15,15 +15,15 @@ v : Turn Down
 Space : Jumb
 
 Play Goals:
-- The goal is to jump 8 walls the most rapidly.
+- The goal is to jump 7 walls the most rapidly.
 
 Game World: 
-- 8 little walls that the player can jump.
+- 7 little walls that the player can jump.
 - A big wall around the map that the player can't jumb.
 - A player.
 
 Game Rules:
-- The player have to jumb 8 little wall to win.
+- The player have to jumb 7 little wall to win.
 - He can't jump big wall.
 - He can't jump two once the same wall.
 - The player can't loose.
