@@ -27,5 +27,5 @@ Game Rules:
 - He can't jump big wall.
 - He can't jump two once the same wall.
 - The player can't loose.
-- A timer begin at the game start and end when the player jump the 8 wall.
+- A timer begin at the game start and end when the player jump the 7 wall.
 - The timer is to use to do a ladder where the most shortest time is on the top.
